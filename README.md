@@ -17,8 +17,8 @@
 <a target="_blank" href="mailto:renan.eduardolopes@outlook.com">
   <img align="left" alt="Mail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-</div>
-
+<br>
+<br>
 <br>
 <hr>
 <br>
