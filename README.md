@@ -1,6 +1,6 @@
 ## Olá!! 👋
 
-## Me chamo Renan Oliveira e bem vindo ao meu Github. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+## Me chamo Renan Oliveira e bem vindo(a) ao meu Github. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 
 <br>
