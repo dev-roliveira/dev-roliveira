@@ -1,13 +1,18 @@
 ## Hello, I'm Renan Oliveira and welcome to my GitHub. 
 Here I share some files from projects and courses that I did.
-
+For my portfolio, please visit <a href="https://github.com/dev-roliveira/SitePessoal">this</a> repository.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Angular  height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Light.svg">
+  <img align="center" alt="AWS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Light.svg">
+  <img align="center" alt="GIT" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg">
+                                                                                                                                
+                                                                                                                                  
 </div><br>
 <hr style="height:1px;border:none;"/>
 <div><br>
