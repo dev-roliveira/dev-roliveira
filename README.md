@@ -1,15 +1,19 @@
-## Olá!! 👋
+## Hello, I'm Renan Oliveira and welcome to my GitHub. 
+Here I share some files from projects and courses that I did.
 
-## Me chamo Renan Oliveira e bem vindo(a) ao meu Github. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-
-
+<div style="display: inline_block"><br>
+  <img align="center" alt="Java" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
 <br>
-<hr>
-<br>
+<div>
 <a target="_blank" href="https://www.linkedin.com/in/renan--eduardo/">
   <img align="left" alt="LinkdeIN" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a target="_blank" href="https://api.whatsapp.com/send?phone=5512988994536">
+<a target="_blank" href="https://api.whatsapp.com/send?phone=+5512992582674">
   <img align="left" alt="Whatsapp" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
 <a target="_blank" href="https://www.instagram.com/renanloliveira/">
@@ -18,6 +22,7 @@
 <a target="_blank" href="mailto:renan.eduardolopes@outlook.com">
   <img align="left" alt="Mail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+</div> 
 <br>
 <br>
 <br>
